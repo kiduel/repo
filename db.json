@@ -1,18 +1,6 @@
-[
-  {
-    "id": 1,
-    "title": "Cozy apartment in San Francisco",
-    "price": 120,
-    "rating": 4.8,
-    "imageUrl": "https://picsum.photos/400/300?random=1",
-    "location": "San Francisco, CA"
-  },
-  {
-    "id": 2,
-    "title": "Modern loft in New York",
-    "price": 220,
-    "rating": 4.6,
-    "imageUrl": "",
-    "location": "New York, NY"
-  }
-]
+{
+  "listings": [
+    { "id": 1, "title": "Cozy SF flat", "price": 120, "rating": 4.8, "imageUrl": "https://picsum.photos/400/300?1", "location": "San Francisco, CA" },
+    { "id": 2, "title": "Modern NYC loft", "price": 220, "rating": 4.6, "imageUrl": "https://picsum.photos/400/300?2", "location": "New York, NY" }
+  ]
+}
