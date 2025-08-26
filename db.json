@@ -1,6 +1,94 @@
 {
   "listings": [
-    { "id": 1, "title": "Cozy SF flat", "price": 120, "rating": 4.8, "imageUrl": "https://picsum.photos/400/300?1", "location": "San Francisco, CA" },
-    { "id": 2, "title": "Modern NYC loft", "price": 220, "rating": 4.6, "imageUrl": "https://picsum.photos/400/300?2", "location": "New York, NY" }
+  {
+    "id": 1,
+    "title": "Cozy apartment",
+    "price": 120,
+    "rating": 4.8,
+    "ratingNumber": 336,
+    "isHearted": false,
+    "guestFavorite": false,
+    "profilePic": "https://static.vecteezy.com/system/resources/thumbnails/002/318/271/small/user-profile-icon-free-vector.jpg",
+    "occupation": "Computer tech",
+    "date": "Sep 26 - 28",
+    "images": [
+      "https://picsum.photos/400/300?random=1",
+      "https://picsum.photos/400/300?random=2",
+      "https://picsum.photos/400/300?random=3"
+    ],
+    "location": "San Francisco, CA"
+  },
+  {
+    "id": 2,
+    "title": "Modern loft in New York",
+    "price": 220,
+    "rating": 4.6,
+    "ratingNumber": 289,
+    "isHearted": true,
+    "guestFavorite": true,
+    "profilePic": "https://cdn-icons-png.flaticon.com/512/194/194938.png",
+    "occupation": "Designer",
+    "date": "Oct 5 - 10",
+    "images": [
+      "https://picsum.photos/400/300?random=4",
+      "https://picsum.photos/400/300?random=5",
+      "https://picsum.photos/400/300?random=6"
+    ],
+    "location": "New York, NY"
+  },
+  {
+    "id": 3,
+    "title": "Charming countryside home",
+    "price": 95,
+    "rating": 4.9,
+    "ratingNumber": 510,
+    "isHearted": false,
+    "guestFavorite": true,
+    "profilePic": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+    "occupation": "Chef",
+    "date": "Nov 2 - 6",
+    "images": [
+      "https://picsum.photos/400/300?random=7",
+      "https://picsum.photos/400/300?random=8",
+      "https://picsum.photos/400/300?random=9"
+    ],
+    "location": "Napa Valley, CA"
+  },
+  {
+    "id": 4,
+    "title": "Beachside bungalow",
+    "price": 180,
+    "rating": 4.7,
+    "ratingNumber": 190,
+    "isHearted": true,
+    "guestFavorite": false,
+    "profilePic": "https://cdn-icons-png.flaticon.com/512/1999/1999625.png",
+    "occupation": "Photographer",
+    "date": "Dec 12 - 15",
+    "images": [
+      "https://picsum.photos/400/300?random=10",
+      "https://picsum.photos/400/300?random=11",
+      "https://picsum.photos/400/300?random=12"
+    ],
+    "location": "Miami, FL"
+  },
+  {
+    "id": 5,
+    "title": "Luxury villa with pool",
+    "price": 350,
+    "rating": 5.0,
+    "ratingNumber": 102,
+    "isHearted": false,
+    "guestFavorite": true,
+    "profilePic": "https://cdn-icons-png.flaticon.com/512/236/236831.png",
+    "occupation": "Entrepreneur",
+    "date": "Jan 3 - 7",
+    "images": [
+      "https://picsum.photos/400/300?random=13",
+      "https://picsum.photos/400/300?random=14",
+      "https://picsum.photos/400/300?random=15"
+    ],
+    "location": "Los Angeles, CA"
+  } 
   ]
 }
